@@ -1,4 +1,4 @@
 name: home-ai-server
 description: Coral-ready Fedora image for Frigate and expressive automation
-image-name: ghcr.io/EightBySix/home-ai-server
+image-name: ghcr.io/eightbysix/home-ai-server
 signing: false
